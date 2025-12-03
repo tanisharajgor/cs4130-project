@@ -1,0 +1,1666 @@
+[
+  {
+    "scene_id": 1,
+    "prompt": "A scene with trees and light snow",
+    "environment": "forest",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_1.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 2,
+    "prompt": "A scene with trees and heavy snowfall",
+    "environment": "forest",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_2.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 3,
+    "prompt": "A scene with trees and dust storm",
+    "environment": "forest",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_3.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 4,
+    "prompt": "A scene with trees and rain",
+    "environment": "forest",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_4.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 5,
+    "prompt": "A scene with woods and light snow",
+    "environment": "forest",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_5.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 6,
+    "prompt": "A scene with woods and heavy snowfall",
+    "environment": "forest",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_6.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 7,
+    "prompt": "A scene with woods and dust storm",
+    "environment": "forest",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_7.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 8,
+    "prompt": "A scene with woods and rain",
+    "environment": "forest",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_8.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 9,
+    "prompt": "A scene with nature and light snow",
+    "environment": "forest",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_9.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 10,
+    "prompt": "A scene with nature and heavy snowfall",
+    "environment": "forest",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_10.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 11,
+    "prompt": "A scene with nature and dust storm",
+    "environment": "forest",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_11.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 12,
+    "prompt": "A scene with nature and rain",
+    "environment": "forest",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_12.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 13,
+    "prompt": "A scene with green and light snow",
+    "environment": "forest",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_13.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 14,
+    "prompt": "A scene with green and heavy snowfall",
+    "environment": "forest",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_14.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 15,
+    "prompt": "A scene with green and dust storm",
+    "environment": "forest",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_15.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 16,
+    "prompt": "A scene with green and rain",
+    "environment": "forest",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_16.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: forest\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 17,
+    "prompt": "A scene with futuristic and light snow",
+    "environment": "contact",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_17.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 18,
+    "prompt": "A scene with futuristic and heavy snowfall",
+    "environment": "contact",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_18.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 19,
+    "prompt": "A scene with futuristic and dust storm",
+    "environment": "contact",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_19.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 20,
+    "prompt": "A scene with futuristic and rain",
+    "environment": "contact",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_20.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 21,
+    "prompt": "A scene with apocalyptic and light snow",
+    "environment": "contact",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_21.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 22,
+    "prompt": "A scene with apocalyptic and heavy snowfall",
+    "environment": "contact",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_22.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 23,
+    "prompt": "A scene with apocalyptic and dust storm",
+    "environment": "contact",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_23.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 24,
+    "prompt": "A scene with apocalyptic and rain",
+    "environment": "contact",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_24.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 25,
+    "prompt": "A scene with cyberpunk and light snow",
+    "environment": "contact",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_25.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 26,
+    "prompt": "A scene with cyberpunk and heavy snowfall",
+    "environment": "contact",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_26.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 27,
+    "prompt": "A scene with cyberpunk and dust storm",
+    "environment": "contact",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_27.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 28,
+    "prompt": "A scene with cyberpunk and rain",
+    "environment": "contact",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_28.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 29,
+    "prompt": "A scene with sci-fi and light snow",
+    "environment": "contact",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_29.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 30,
+    "prompt": "A scene with sci-fi and heavy snowfall",
+    "environment": "contact",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_30.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 31,
+    "prompt": "A scene with sci-fi and dust storm",
+    "environment": "contact",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_31.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 32,
+    "prompt": "A scene with sci-fi and rain",
+    "environment": "contact",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_32.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: contact\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 33,
+    "prompt": "A scene with desert and light snow",
+    "environment": "egypt",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_33.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 34,
+    "prompt": "A scene with desert and heavy snowfall",
+    "environment": "egypt",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_34.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 35,
+    "prompt": "A scene with desert and dust storm",
+    "environment": "egypt",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_35.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 36,
+    "prompt": "A scene with desert and rain",
+    "environment": "egypt",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_36.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 37,
+    "prompt": "A scene with pyramids and light snow",
+    "environment": "egypt",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_37.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 38,
+    "prompt": "A scene with pyramids and heavy snowfall",
+    "environment": "egypt",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_38.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 39,
+    "prompt": "A scene with pyramids and dust storm",
+    "environment": "egypt",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_39.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 40,
+    "prompt": "A scene with pyramids and rain",
+    "environment": "egypt",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_40.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 41,
+    "prompt": "A scene with sand and light snow",
+    "environment": "egypt",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_41.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 42,
+    "prompt": "A scene with sand and heavy snowfall",
+    "environment": "egypt",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_42.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 43,
+    "prompt": "A scene with sand and dust storm",
+    "environment": "egypt",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_43.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 44,
+    "prompt": "A scene with sand and rain",
+    "environment": "egypt",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_44.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 45,
+    "prompt": "A scene with ancient and light snow",
+    "environment": "egypt",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_45.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 46,
+    "prompt": "A scene with ancient and heavy snowfall",
+    "environment": "egypt",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_46.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 47,
+    "prompt": "A scene with ancient and dust storm",
+    "environment": "egypt",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_47.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 48,
+    "prompt": "A scene with ancient and rain",
+    "environment": "egypt",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_48.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: egypt\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 49,
+    "prompt": "A scene with minimalist and light snow",
+    "environment": "checkerboard",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_49.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: checkerboard\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 50,
+    "prompt": "A scene with minimalist and heavy snowfall",
+    "environment": "checkerboard",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_50.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: checkerboard\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 51,
+    "prompt": "A scene with minimalist and dust storm",
+    "environment": "checkerboard",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_51.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: checkerboard\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 52,
+    "prompt": "A scene with minimalist and rain",
+    "environment": "checkerboard",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_52.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: checkerboard\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 53,
+    "prompt": "A scene with grid and light snow",
+    "environment": "checkerboard",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_53.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: checkerboard\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 54,
+    "prompt": "A scene with grid and heavy snowfall",
+    "environment": "checkerboard",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_54.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: checkerboard\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 55,
+    "prompt": "A scene with grid and dust storm",
+    "environment": "checkerboard",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_55.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: checkerboard\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 56,
+    "prompt": "A scene with grid and rain",
+    "environment": "checkerboard",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_56.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: checkerboard\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 57,
+    "prompt": "A scene with black and white and light snow",
+    "environment": "checkerboard",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_57.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: checkerboard\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 58,
+    "prompt": "A scene with black and white and heavy snowfall",
+    "environment": "checkerboard",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_58.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: checkerboard\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 59,
+    "prompt": "A scene with black and white and dust storm",
+    "environment": "checkerboard",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_59.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: checkerboard\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 60,
+    "prompt": "A scene with black and white and rain",
+    "environment": "checkerboard",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_60.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: checkerboard\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 61,
+    "prompt": "A scene with alien and light snow",
+    "environment": "goaland",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_61.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 62,
+    "prompt": "A scene with alien and heavy snowfall",
+    "environment": "goaland",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_62.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 63,
+    "prompt": "A scene with alien and dust storm",
+    "environment": "goaland",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_63.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 64,
+    "prompt": "A scene with alien and rain",
+    "environment": "goaland",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_64.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 65,
+    "prompt": "A scene with mushrooms and light snow",
+    "environment": "goaland",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_65.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 66,
+    "prompt": "A scene with mushrooms and heavy snowfall",
+    "environment": "goaland",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_66.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 67,
+    "prompt": "A scene with mushrooms and dust storm",
+    "environment": "goaland",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_67.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 68,
+    "prompt": "A scene with mushrooms and rain",
+    "environment": "goaland",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_68.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 69,
+    "prompt": "A scene with fantasy and light snow",
+    "environment": "goaland",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_69.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 70,
+    "prompt": "A scene with fantasy and heavy snowfall",
+    "environment": "goaland",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_70.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 71,
+    "prompt": "A scene with fantasy and dust storm",
+    "environment": "goaland",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_71.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 72,
+    "prompt": "A scene with fantasy and rain",
+    "environment": "goaland",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_72.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 73,
+    "prompt": "A scene with red vegetation and light snow",
+    "environment": "goaland",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_73.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 74,
+    "prompt": "A scene with red vegetation and heavy snowfall",
+    "environment": "goaland",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_74.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 75,
+    "prompt": "A scene with red vegetation and dust storm",
+    "environment": "goaland",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_75.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 76,
+    "prompt": "A scene with red vegetation and rain",
+    "environment": "goaland",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_76.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goaland\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 77,
+    "prompt": "A scene with mars and light snow",
+    "environment": "yavapai",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_77.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: yavapai\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 78,
+    "prompt": "A scene with mars and heavy snowfall",
+    "environment": "yavapai",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_78.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: yavapai\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 79,
+    "prompt": "A scene with mars and dust storm",
+    "environment": "yavapai",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_79.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: yavapai\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 80,
+    "prompt": "A scene with mars and rain",
+    "environment": "yavapai",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_80.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: yavapai\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 81,
+    "prompt": "A scene with red planet and light snow",
+    "environment": "yavapai",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_81.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: yavapai\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 82,
+    "prompt": "A scene with red planet and heavy snowfall",
+    "environment": "yavapai",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_82.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: yavapai\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 83,
+    "prompt": "A scene with red planet and dust storm",
+    "environment": "yavapai",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_83.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: yavapai\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 84,
+    "prompt": "A scene with red planet and rain",
+    "environment": "yavapai",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_84.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: yavapai\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 85,
+    "prompt": "A scene with orange desert and light snow",
+    "environment": "yavapai",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_85.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: yavapai\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 86,
+    "prompt": "A scene with orange desert and heavy snowfall",
+    "environment": "yavapai",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_86.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: yavapai\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 87,
+    "prompt": "A scene with orange desert and dust storm",
+    "environment": "yavapai",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_87.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: yavapai\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 88,
+    "prompt": "A scene with orange desert and rain",
+    "environment": "yavapai",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_88.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: yavapai\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 89,
+    "prompt": "A scene with cave and light snow",
+    "environment": "goldmine",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_89.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goldmine\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 90,
+    "prompt": "A scene with cave and heavy snowfall",
+    "environment": "goldmine",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_90.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goldmine\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 91,
+    "prompt": "A scene with cave and dust storm",
+    "environment": "goldmine",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_91.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goldmine\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 92,
+    "prompt": "A scene with cave and rain",
+    "environment": "goldmine",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_92.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goldmine\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 93,
+    "prompt": "A scene with underground and light snow",
+    "environment": "goldmine",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_93.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goldmine\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 94,
+    "prompt": "A scene with underground and heavy snowfall",
+    "environment": "goldmine",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_94.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goldmine\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 95,
+    "prompt": "A scene with underground and dust storm",
+    "environment": "goldmine",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_95.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goldmine\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 96,
+    "prompt": "A scene with underground and rain",
+    "environment": "goldmine",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_96.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goldmine\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 97,
+    "prompt": "A scene with glowing crystals and light snow",
+    "environment": "goldmine",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_97.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goldmine\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 98,
+    "prompt": "A scene with glowing crystals and heavy snowfall",
+    "environment": "goldmine",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_98.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goldmine\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 99,
+    "prompt": "A scene with glowing crystals and dust storm",
+    "environment": "goldmine",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_99.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goldmine\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 100,
+    "prompt": "A scene with glowing crystals and rain",
+    "environment": "goldmine",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_100.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: goldmine\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 101,
+    "prompt": "A scene with towers and light snow",
+    "environment": "threetowers",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_101.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: threetowers\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 102,
+    "prompt": "A scene with towers and heavy snowfall",
+    "environment": "threetowers",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_102.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: threetowers\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 103,
+    "prompt": "A scene with towers and dust storm",
+    "environment": "threetowers",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_103.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: threetowers\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 104,
+    "prompt": "A scene with towers and rain",
+    "environment": "threetowers",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_104.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: threetowers\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 105,
+    "prompt": "A scene with water and light snow",
+    "environment": "threetowers",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_105.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: threetowers\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 106,
+    "prompt": "A scene with water and heavy snowfall",
+    "environment": "threetowers",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_106.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: threetowers\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 107,
+    "prompt": "A scene with water and dust storm",
+    "environment": "threetowers",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_107.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: threetowers\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 108,
+    "prompt": "A scene with water and rain",
+    "environment": "threetowers",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_108.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: threetowers\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 109,
+    "prompt": "A scene with architectural and light snow",
+    "environment": "threetowers",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_109.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: threetowers\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 110,
+    "prompt": "A scene with architectural and heavy snowfall",
+    "environment": "threetowers",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_110.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: threetowers\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 111,
+    "prompt": "A scene with architectural and dust storm",
+    "environment": "threetowers",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_111.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: threetowers\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 112,
+    "prompt": "A scene with architectural and rain",
+    "environment": "threetowers",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_112.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: threetowers\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 113,
+    "prompt": "A scene with toxic and light snow",
+    "environment": "poison",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_113.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: poison\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 114,
+    "prompt": "A scene with toxic and heavy snowfall",
+    "environment": "poison",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_114.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: poison\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 115,
+    "prompt": "A scene with toxic and dust storm",
+    "environment": "poison",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_115.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: poison\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 116,
+    "prompt": "A scene with toxic and rain",
+    "environment": "poison",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_116.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: poison\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 117,
+    "prompt": "A scene with hazardous and light snow",
+    "environment": "poison",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_117.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: poison\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 118,
+    "prompt": "A scene with hazardous and heavy snowfall",
+    "environment": "poison",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_118.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: poison\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 119,
+    "prompt": "A scene with hazardous and dust storm",
+    "environment": "poison",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_119.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: poison\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 120,
+    "prompt": "A scene with hazardous and rain",
+    "environment": "poison",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_120.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: poison\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 121,
+    "prompt": "A scene with dangerous and light snow",
+    "environment": "poison",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_121.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: poison\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 122,
+    "prompt": "A scene with dangerous and heavy snowfall",
+    "environment": "poison",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_122.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: poison\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 123,
+    "prompt": "A scene with dangerous and dust storm",
+    "environment": "poison",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_123.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: poison\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 124,
+    "prompt": "A scene with dangerous and rain",
+    "environment": "poison",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_124.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: poison\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 125,
+    "prompt": "A scene with stone arches and light snow",
+    "environment": "arches",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_125.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: arches\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 126,
+    "prompt": "A scene with stone arches and heavy snowfall",
+    "environment": "arches",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_126.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: arches\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 127,
+    "prompt": "A scene with stone arches and dust storm",
+    "environment": "arches",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_127.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: arches\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 128,
+    "prompt": "A scene with stone arches and rain",
+    "environment": "arches",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_128.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: arches\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 129,
+    "prompt": "A scene with desert and light snow",
+    "environment": "arches",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_129.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: arches\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 130,
+    "prompt": "A scene with desert and heavy snowfall",
+    "environment": "arches",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_130.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: arches\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 131,
+    "prompt": "A scene with desert and dust storm",
+    "environment": "arches",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_131.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: arches\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 132,
+    "prompt": "A scene with desert and rain",
+    "environment": "arches",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_132.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: arches\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 133,
+    "prompt": "A scene with cyberpunk and light snow",
+    "environment": "tron",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_133.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: tron\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 134,
+    "prompt": "A scene with cyberpunk and heavy snowfall",
+    "environment": "tron",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_134.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: tron\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 135,
+    "prompt": "A scene with cyberpunk and dust storm",
+    "environment": "tron",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_135.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: tron\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 136,
+    "prompt": "A scene with cyberpunk and rain",
+    "environment": "tron",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_136.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: tron\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 137,
+    "prompt": "A scene with neon grid and light snow",
+    "environment": "tron",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_137.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: tron\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 138,
+    "prompt": "A scene with neon grid and heavy snowfall",
+    "environment": "tron",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_138.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: tron\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 139,
+    "prompt": "A scene with neon grid and dust storm",
+    "environment": "tron",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_139.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: tron\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 140,
+    "prompt": "A scene with neon grid and rain",
+    "environment": "tron",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_140.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: tron\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 141,
+    "prompt": "A scene with digital and light snow",
+    "environment": "tron",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_141.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: tron\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 142,
+    "prompt": "A scene with digital and heavy snowfall",
+    "environment": "tron",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_142.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: tron\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 143,
+    "prompt": "A scene with digital and dust storm",
+    "environment": "tron",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_143.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: tron\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 144,
+    "prompt": "A scene with digital and rain",
+    "environment": "tron",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_144.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: tron\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 145,
+    "prompt": "A scene with torii gates and light snow",
+    "environment": "japan",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_145.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 146,
+    "prompt": "A scene with torii gates and heavy snowfall",
+    "environment": "japan",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_146.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 147,
+    "prompt": "A scene with torii gates and dust storm",
+    "environment": "japan",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_147.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 148,
+    "prompt": "A scene with torii gates and rain",
+    "environment": "japan",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_148.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 149,
+    "prompt": "A scene with shrine and light snow",
+    "environment": "japan",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_149.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 150,
+    "prompt": "A scene with shrine and heavy snowfall",
+    "environment": "japan",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_150.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 151,
+    "prompt": "A scene with shrine and dust storm",
+    "environment": "japan",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_151.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 152,
+    "prompt": "A scene with shrine and rain",
+    "environment": "japan",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_152.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 153,
+    "prompt": "A scene with zen and light snow",
+    "environment": "japan",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_153.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 154,
+    "prompt": "A scene with zen and heavy snowfall",
+    "environment": "japan",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_154.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 155,
+    "prompt": "A scene with zen and dust storm",
+    "environment": "japan",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_155.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 156,
+    "prompt": "A scene with zen and rain",
+    "environment": "japan",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_156.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 157,
+    "prompt": "A scene with peaceful and light snow",
+    "environment": "japan",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_157.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 158,
+    "prompt": "A scene with peaceful and heavy snowfall",
+    "environment": "japan",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_158.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 159,
+    "prompt": "A scene with peaceful and dust storm",
+    "environment": "japan",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_159.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 160,
+    "prompt": "A scene with peaceful and rain",
+    "environment": "japan",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_160.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: japan\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 161,
+    "prompt": "A scene with surreal and light snow",
+    "environment": "dream",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_161.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: dream\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 162,
+    "prompt": "A scene with surreal and heavy snowfall",
+    "environment": "dream",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_162.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: dream\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 163,
+    "prompt": "A scene with surreal and dust storm",
+    "environment": "dream",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_163.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: dream\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 164,
+    "prompt": "A scene with surreal and rain",
+    "environment": "dream",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_164.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: dream\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 165,
+    "prompt": "A scene with psychedelic and light snow",
+    "environment": "dream",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_165.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: dream\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 166,
+    "prompt": "A scene with psychedelic and heavy snowfall",
+    "environment": "dream",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_166.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: dream\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 167,
+    "prompt": "A scene with psychedelic and dust storm",
+    "environment": "dream",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_167.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: dream\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 168,
+    "prompt": "A scene with psychedelic and rain",
+    "environment": "dream",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_168.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: dream\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 169,
+    "prompt": "A scene with fantasy and light snow",
+    "environment": "dream",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_169.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: dream\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 170,
+    "prompt": "A scene with fantasy and heavy snowfall",
+    "environment": "dream",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_170.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: dream\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 171,
+    "prompt": "A scene with fantasy and dust storm",
+    "environment": "dream",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_171.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: dream\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 172,
+    "prompt": "A scene with fantasy and rain",
+    "environment": "dream",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_172.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: dream\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 173,
+    "prompt": "A scene with lava and light snow",
+    "environment": "volcano",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_173.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: volcano\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 174,
+    "prompt": "A scene with lava and heavy snowfall",
+    "environment": "volcano",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_174.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: volcano\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 175,
+    "prompt": "A scene with lava and dust storm",
+    "environment": "volcano",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_175.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: volcano\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 176,
+    "prompt": "A scene with lava and rain",
+    "environment": "volcano",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_176.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: volcano\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 177,
+    "prompt": "A scene with fire and light snow",
+    "environment": "volcano",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_177.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: volcano\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 178,
+    "prompt": "A scene with fire and heavy snowfall",
+    "environment": "volcano",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_178.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: volcano\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 179,
+    "prompt": "A scene with fire and dust storm",
+    "environment": "volcano",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_179.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: volcano\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 180,
+    "prompt": "A scene with fire and rain",
+    "environment": "volcano",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_180.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: volcano\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 181,
+    "prompt": "A scene with molten and light snow",
+    "environment": "volcano",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_181.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: volcano\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 182,
+    "prompt": "A scene with molten and heavy snowfall",
+    "environment": "volcano",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_182.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: volcano\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 183,
+    "prompt": "A scene with molten and dust storm",
+    "environment": "volcano",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_183.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: volcano\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 184,
+    "prompt": "A scene with molten and rain",
+    "environment": "volcano",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_184.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: volcano\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 185,
+    "prompt": "A scene with space and light snow",
+    "environment": "starry",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_185.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 186,
+    "prompt": "A scene with space and heavy snowfall",
+    "environment": "starry",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_186.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 187,
+    "prompt": "A scene with space and dust storm",
+    "environment": "starry",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_187.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 188,
+    "prompt": "A scene with space and rain",
+    "environment": "starry",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_188.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 189,
+    "prompt": "A scene with stars and light snow",
+    "environment": "starry",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_189.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 190,
+    "prompt": "A scene with stars and heavy snowfall",
+    "environment": "starry",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_190.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 191,
+    "prompt": "A scene with stars and dust storm",
+    "environment": "starry",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_191.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 192,
+    "prompt": "A scene with stars and rain",
+    "environment": "starry",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_192.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 193,
+    "prompt": "A scene with night sky and light snow",
+    "environment": "starry",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_193.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 194,
+    "prompt": "A scene with night sky and heavy snowfall",
+    "environment": "starry",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_194.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 195,
+    "prompt": "A scene with night sky and dust storm",
+    "environment": "starry",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_195.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 196,
+    "prompt": "A scene with night sky and rain",
+    "environment": "starry",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_196.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 197,
+    "prompt": "A scene with cosmic and light snow",
+    "environment": "starry",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_197.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 198,
+    "prompt": "A scene with cosmic and heavy snowfall",
+    "environment": "starry",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_198.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 199,
+    "prompt": "A scene with cosmic and dust storm",
+    "environment": "starry",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_199.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 200,
+    "prompt": "A scene with cosmic and rain",
+    "environment": "starry",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_200.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: starry\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 201,
+    "prompt": "A scene with pyramids at sunset and light snow",
+    "environment": "osiris",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_201.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: osiris\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 202,
+    "prompt": "A scene with pyramids at sunset and heavy snowfall",
+    "environment": "osiris",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_202.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: osiris\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 203,
+    "prompt": "A scene with pyramids at sunset and dust storm",
+    "environment": "osiris",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_203.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: osiris\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 204,
+    "prompt": "A scene with pyramids at sunset and rain",
+    "environment": "osiris",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_204.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: osiris\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 205,
+    "prompt": "A scene with mystical and light snow",
+    "environment": "osiris",
+    "weather": "light snow",
+    "html_file": "samples/scene/scene_205.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: osiris\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 2000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 206,
+    "prompt": "A scene with mystical and heavy snowfall",
+    "environment": "osiris",
+    "weather": "heavy snowfall",
+    "html_file": "samples/scene/scene_206.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: osiris\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: snow; particleCount: 5000\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 207,
+    "prompt": "A scene with mystical and dust storm",
+    "environment": "osiris",
+    "weather": "dust storm",
+    "html_file": "samples/scene/scene_207.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: osiris\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: dust\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  },
+  {
+    "scene_id": 208,
+    "prompt": "A scene with mystical and rain",
+    "environment": "osiris",
+    "weather": "rain",
+    "html_file": "samples/scene/scene_208.html",
+    "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <script src=\"https://aframe.io/releases/1.7.0/aframe.min.js\"></script>\n    <script src=\"https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js\"></script>\n    <script src=\"https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js\"></script>\n  </head>\n  <body>\n    <a-scene>\n      <a-entity environment=\"preset: osiris\"></a-entity>\n      <a-entity position=\"0 2.25 -15\" particle-system=\"preset: rain\"></a-entity>\n    </a-scene>\n  </body>\n</html>\n"
+  }
+]

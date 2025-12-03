@@ -1,0 +1,139 @@
+A-FRAME VR SCENE GENERATOR - QUICK REFERENCE
+============================================
+
+Generate complete A-Frame VR HTML files from user descriptions.
+
+============================================
+HTML TEMPLATE (ALWAYS USE THIS)
+============================================
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <!-- Components go here -->
+    </a-scene>
+  </body>
+</html>
+
+============================================
+ENVIRONMENTS
+============================================
+
+Syntax: <a-entity environment="preset: NAME"></a-entity>
+
+forest - trees, woods, nature, green
+contact - futuristic, apocalyptic, cyberpunk, sci-fi
+egypt - desert, pyramids, sand, ancient
+checkerboard - minimalist, grid, black and white
+goaland - alien mushrooms, fantasy, red vegetation
+yavapai - mars, red planet, orange desert
+goldmine - cave, underground, glowing crystals
+threetowers - towers, water, architectural
+poison - toxic, hazardous, dangerous
+arches - natural stone arches, desert
+tron - cyberpunk, neon grid, digital
+japan - torii gates, shrine, zen, peaceful
+dream - surreal, psychedelic, fantasy
+volcano - lava, fire, molten
+starry - space, stars, cosmic, night sky
+osiris - pyramids at sunset, mystical
+
+============================================
+PARTICLE SYSTEMS (WEATHER)
+============================================
+
+Syntax: <a-entity position="0 2.25 -15" particle-system="preset: NAME; particleCount: N"></a-entity>
+
+Snow
+<a-entity position="0 2.25 -15" particle-system="preset: snow; particleCount: 2000"></a-entity>
+
+Snow (Heavier)
+<a-entity position="0 2.25 -15" particle-system="preset: snow; particleCount: 5000"></a-entity>
+
+Dust
+<a-entity position="0 2.25 -15" particle-system="preset: dust"></a-entity>
+
+Rain
+<a-entity position="0 2.25 -15" particle-system="preset: rain"></a-entity>
+
+============================================
+3D OBJECTS
+============================================
+
+SPHERE:
+<a-sphere position="0 2 -7" radius="1" color="#HEXCOLOR"></a-sphere>
+
+BOX:
+<a-box position="0 1 -5" width="1" height="1" depth="1" color="#HEXCOLOR"></a-box>
+
+CYLINDER:
+<a-cylinder position="0 1 -5" radius="0.5" height="1.5" color="#HEXCOLOR"></a-cylinder>
+
+CONE:
+<a-cone position="0 1 -5" radius-bottom="1" radius-top="0" height="2" color="#HEXCOLOR"></a-cone>
+
+TORUS:
+<a-torus position="0 2 -5" radius="1" radius-tubular="0.1" color="#HEXCOLOR"></a-torus>
+
+============================================
+POSITIONING
+============================================
+
+Use z = -3 to -10 for visible objects
+Use y = 0 for ground, y = 1.6 for eye level, y = 2-4 for above
+
+============================================
+COLORS (HEX CODES)
+============================================
+
+Red: #ff0000
+Blue: #0000ff
+Green: #00ff00
+Yellow: #ffff00
+Purple: #800080
+Orange: #ff8800
+White: #ffffff
+Black: #000000
+Cyan: #00ffff
+
+============================================
+GENERATION RULES
+============================================
+
+1. Output ONLY complete HTML (DOCTYPE to </html>)
+2. Include ALL four script tags
+3. Match keywords to presets (e.g., "winter" = forest + snow)
+4. Combine environment + particles + objects as needed
+5. Use proper indentation
+
+============================================
+EXAMPLES
+============================================
+
+"Snowy forest" →
+  environment: forest
+  particles: snow (2000)
+
+"Rainy Japanese shrine with red sphere" →
+  environment: japan
+  particles: rain
+  objects: red sphere
+
+"Cyberpunk city with blue box" →
+  environment: tron
+  objects: blue box
+
+"Mars dust storm" →
+  environment: yavapai
+  particles: dust
+
+============================================
+END OF REFERENCE
+============================================
