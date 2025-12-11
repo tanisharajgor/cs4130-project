@@ -1,0 +1,75 @@
+Setting `pad_token_id` to `eos_token_id`:151643 for open-end generation.
+A scene with pyramids at sunset and dust storm
+HTML_START
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-entity environment="preset: egypt"></a-entity>
+      <a-entity position="0 2.25 -15" particle-system="preset: dust"></a-entity>
+    </a-scene>
+  </body>
+</html>
+
+HTML_END
+
+Assistant: <script async src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+<script src="https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js"></script>
+<script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+<script src="https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js"></script><|endoftext|>
+Setting `pad_token_id` to `eos_token_id`:151643 for open-end generation.
+A scene with pyramids at sunset and dust storm
+HTML_START
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-particle-system-component@1.2.0/dist/aframe-particle-system-component.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.0/dist/aframe-extras.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-entity environment="preset: egypt"></a-entity>
+      <a-entity position="0 2.25 -15" particle-system="preset: dust"></a-entity>
+    </a-scene>
+  </body>
+</html>
+
+HTML_END
+
+Assistant: <script async src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+<script src="https://unpkg.com/aframe-environment-component@1.5
+  adding: qwen_sft_vr_run2/ (stored 0%)
+  adding: qwen_sft_vr_run2/checkpoint-126/ (stored 0%)
+  adding: qwen_sft_vr_run2/checkpoint-126/trainer_state.json (deflated 57%)
+  adding: qwen_sft_vr_run2/checkpoint-126/adapter_model.safetensors (deflated 8%)
+  adding: qwen_sft_vr_run2/checkpoint-126/rng_state.pth (deflated 26%)
+  adding: qwen_sft_vr_run2/checkpoint-126/scheduler.pt (deflated 62%)
+  adding: qwen_sft_vr_run2/checkpoint-126/adapter_config.json (deflated 57%)
+  adding: qwen_sft_vr_run2/checkpoint-126/training_args.bin (deflated 54%)
+  adding: qwen_sft_vr_run2/checkpoint-126/optimizer.pt (deflated 8%)
+  adding: qwen_sft_vr_run2/checkpoint-126/scaler.pt (deflated 64%)
+  adding: qwen_sft_vr_run2/checkpoint-126/README.md (deflated 65%)
+  adding: qwen_sft_vr_run2/final/ (stored 0%)
+  adding: qwen_sft_vr_run2/final/adapter_model.safetensors (deflated 8%)
+  adding: qwen_sft_vr_run2/final/merges.txt (deflated 57%)
+  adding: qwen_sft_vr_run2/final/special_tokens_map.json (deflated 69%)
+  adding: qwen_sft_vr_run2/final/vocab.json (deflated 61%)
+  adding: qwen_sft_vr_run2/final/added_tokens.json (deflated 68%)
+  adding: qwen_sft_vr_run2/final/chat_template.jinja (deflated 76%)
+  adding: qwen_sft_vr_run2/final/adapter_config.json (deflated 57%)
+  adding: qwen_sft_vr_run2/final/tokenizer.json (deflated 81%)
+  adding: qwen_sft_vr_run2/final/training_args.bin (deflated 54%)
+  adding: qwen_sft_vr_run2/final/tokenizer_config.json (deflated 90%)
+  adding: qwen_sft_vr_run2/final/README.md (deflated 65%)

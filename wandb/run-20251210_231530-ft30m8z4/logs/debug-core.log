@@ -1,0 +1,6 @@
+{"time":"2025-12-10T23:15:31.60195896Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmp2rmu3jao/port-597.txt","pid":597,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-12-10T23:15:31.604981796Z","level":"INFO","msg":"server: will exit if parent process dies","ppid":597}
+{"time":"2025-12-10T23:15:31.604891529Z","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-597-5071-2329177408/socket","Net":"unix"}}
+{"time":"2025-12-10T23:15:31.64867643Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-12-10T23:15:31.662993741Z","level":"INFO","msg":"handleInformInit: received","streamId":"ft30m8z4","id":"1(@)"}
+{"time":"2025-12-10T23:15:32.00021983Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"ft30m8z4","id":"1(@)"}

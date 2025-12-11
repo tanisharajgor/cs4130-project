@@ -1,0 +1,36 @@
+{
+  "os":  "Linux-6.6.105+-x86_64-with-glibc2.35",
+  "python":  "CPython 3.12.12",
+  "startedAt":  "2025-12-10T23:15:30.902342Z",
+  "program":  "playground.ipynb",
+  "codePath":  "playground.ipynb",
+  "email":  "tanisha.rajgor@gmail.com",
+  "root":  "/content",
+  "host":  "a13aff89f5d0",
+  "executable":  "/usr/bin/python3",
+  "colab":  "https://colab.research.google.com/notebook#fileId=10e-ObfNWwAFxVoQxmqnrpH2RFySgGkZE",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA L4",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "253055008768",
+      "used":  "44583391232"
+    }
+  },
+  "memory":  {
+    "total":  "56863338496"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA L4",
+      "memoryTotal":  "24152899584",
+      "cudaCores":  7424,
+      "architecture":  "Ada",
+      "uuid":  "GPU-c1f4443a-b08e-765e-7215-4a73badddbc3"
+    }
+  ],
+  "cudaVersion":  "12.4",
+  "writerId":  "f51tshtry8dxb7ty6y30usdkff2jz8vn"
+}
