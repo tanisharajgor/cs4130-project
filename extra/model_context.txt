@@ -1,5 +1,9 @@
 A-FRAME VR SCENE GENERATOR - QUICK REFERENCE
 ============================================
+Note: We were intially trying to do a few shot assisted approach to 
+gauge general base-level model performance, however we decided to work
+on Supervised Fine-tuning instead.
+============================================
 
 Generate complete A-Frame VR HTML files from user descriptions.
 
